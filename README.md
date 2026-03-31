@@ -15,6 +15,8 @@ Ensure common GND between ESP32, switches, and LEDs.
 Note: The color coding in the picture is just for reference – you can choose any colors.
 
 ## Code:
+
+```cpp
 const int switchPins[4] = {12, 13, 14, 15};
 const int ledPins[4]    = {16, 17, 18, 19};
 
@@ -32,4 +34,3 @@ void loop() {
     digitalWrite(ledPins[i], isPressed ? HIGH : LOW);
   }
 }
-
