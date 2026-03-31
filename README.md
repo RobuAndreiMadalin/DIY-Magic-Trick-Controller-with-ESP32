@@ -1,4 +1,6 @@
 When the correct combination of switches is flipped, the corresponding LED lights up, creating a magic effect.
+<img width="599" height="370" alt="image" src="https://github.com/user-attachments/assets/0b11f867-06ff-42f8-8d7c-1f80909c8027" />
+
 
 ## Components
 ESP32 development board
