@@ -13,6 +13,7 @@ Breadboard or project box
 Connect each toggle switch to a digital input on the ESP32.
 Connect each LED to a digital output pin on the ESP32 with a resistor in series.
 Ensure common GND between ESP32, switches, and LEDs.
+![500f8066-143b-4a04-b36c-2974839ed7ab](https://github.com/user-attachments/assets/4ec8bbbe-5392-44d6-a8f6-b722434e74a0)
 
 Note: The color coding in the picture is just for reference – you can choose any colors.
 
